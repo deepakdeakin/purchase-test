@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fL0KEtARlGht9JFH2qcbMHG3edxIPC1UwM4zrmg8a+c=",
+  "Source": "purchase-test.api",
+  "BasePath": "_content/purchase-test.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

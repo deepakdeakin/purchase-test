@@ -1,0 +1,12 @@
+/* ui/src/index.css */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial,
+    sans-serif;
+  background: #f9fafb; /* light gray */
+  color: #111827;     /* dark text */
+}
+
+button {
+  cursor: pointer;
+}
